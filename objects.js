@@ -1,4 +1,4 @@
 var playlist = {
-  Willis:'Die Hard'
+  Willis: 'Die Hard'
   Abba: 'Dreams'
 }
