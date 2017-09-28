@@ -4,6 +4,6 @@ var playlist = {
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist.Arnold = 'Mountain'
+  playlist.Willis = 'Die Hard'
   return playlist
 }
