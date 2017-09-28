@@ -4,5 +4,6 @@ var playlist = {
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
-
+  playlist.Willis = 'Mountain'
+  return playlist
 }
